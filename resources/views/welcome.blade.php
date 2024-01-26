@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>HTTrack Online: Download Websites and HTML Templates for offline</title>
+
+    <meta name="google-site-verification" content="pyKvbrMf18kEyCCqY93hBplnyqgqEsa5-5rJl-OJVBo" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RLJEQ4B4D"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2RLJEQ4B4D');
+    </script>
+
     {{-- @vite('resources/css/app.css') --}}
     @vite(['resources/css/app.css'])
     @livewireStyles
